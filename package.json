@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mui/icons-material": "latest",
-    "@mui/material": "latest",
-    "@mui/system": "latest",
-    "@mui/material-nextjs": "latest",
-    "@mui/styled-engine-sc": "latest",
+    "@mui/icons-material": "https://pkg.csb.dev/mui/material-ui/commit/3d4aa7f2/@mui/icons-material",
+    "@mui/material": "https://pkg.csb.dev/mui/material-ui/commit/3d4aa7f2/@mui/material",
+    "@mui/system": "https://pkg.csb.dev/mui/material-ui/commit/3d4aa7f2/@mui/system",
+    "@mui/material-nextjs": "https://pkg.csb.dev/mui/material-ui/commit/3d4aa7f2/@mui/material-nextjs",
+    "@mui/styled-engine-sc": "https://pkg.csb.dev/mui/material-ui/commit/3d4aa7f2/@mui/styled-engine-sc",
     "eslint": "latest",
     "eslint-config-next": "15.0.3",
     "next": "15.0.3",
